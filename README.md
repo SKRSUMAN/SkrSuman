@@ -31,7 +31,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/suman-kumar)
+- [LinkedIn](https://www.linkedin.com/in/suman-kumar-75a89a227)
 - [Twitter](https://twitter.com/SKRSUMAN)
 - [Portfolio](https://skrsuman.github.io/)
 
